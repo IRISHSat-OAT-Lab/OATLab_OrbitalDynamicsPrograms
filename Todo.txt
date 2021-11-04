@@ -1,4 +1,6 @@
 ** 10/31: Weekly To-Do **
 
-Finish algorithm for computing six classical orbital elements from r and v vectors /// DONE
-Start and finish algorithm for inverse of above algorithm (six classical elements --> r and v vectors) 
+1) Finish algorithm for computing six classical orbital elements from r and v vectors /// DONE
+    - NOTE: Special cases need to be done, though still need to figure out whether they are necessary or not
+    
+2) Start and finish algorithm for inverse of above algorithm (six classical elements --> r and v vectors) /// DONE
